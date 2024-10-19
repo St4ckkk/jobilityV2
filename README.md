@@ -1,4 +1,5 @@
-# job_finder
+# jobility
+# job finder app for differently-abled person
 
 A new Flutter project.
 
