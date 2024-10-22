@@ -1,4 +1,4 @@
-# jobility
+# jobility - Capstone Project 
 # job finder app for differently-abled person
 
 A new Flutter project.
